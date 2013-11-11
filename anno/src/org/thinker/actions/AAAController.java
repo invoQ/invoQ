@@ -9,8 +9,6 @@ public class AAAController {
 	@RequestMapping("/aaa")
 	public String doA(){
 		
-		System.out.println("asdfasdfasdfasdasdfadfasdfadfadfadfsasdf");
-		
 		return "aaa.jsp";
 	}
 }
